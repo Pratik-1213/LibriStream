@@ -1,0 +1,5 @@
+{
+  "name": "LibriStream LMS",
+  "description": "A comprehensive Library Management System with dashboard analytics, book inventory management, member tracking, and circulation desk for issuing and returning books.",
+  "requestFramePermissions": []
+}
